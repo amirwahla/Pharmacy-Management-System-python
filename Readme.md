@@ -1,17 +1,9 @@
 #Pharmacy Management System Project in Python
 
 
-###video Demo - https://youtu.be/eSfkax1PPL4
-
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
-
-
-***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
-
-
-***** FOR MORE PROJECTS :- https://projectworlds.in/ *****
-
-
-
-
-THANK YOU FOR DOWNLOADING :) 
+### How To Run :
+- first you need install python.
+- download project.
+- extract project.
+- double click in project.py.
+- Project is run
